@@ -87,12 +87,6 @@ image_description_generator/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — feel free to use, modify, and distribute.
-
----
-
 ## 🙌 Acknowledgements
 
 - [Salesforce BLIP](https://huggingface.co/Salesforce/blip-image-captioning-base) for the captioning model
